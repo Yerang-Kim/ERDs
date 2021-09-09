@@ -1,3 +1,3 @@
 # ERDs
 
-ERD, 테이블 관계도 모으는 Repository 입니다.
+ERD, 테이블 관계도 파일 Repository
